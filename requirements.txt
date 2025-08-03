@@ -1,0 +1,23 @@
+# Streamlit UI
+streamlit
+
+# Gemini LLM
+google-generativeai
+python-dotenv
+
+# LangChain + LangGraph for agentic flows
+langchain
+langgraph
+
+# Document processing
+PyMuPDF  # for PDF (fitz)
+python-docx
+pdfminer.six
+
+# Vector DB and Embeddings
+chromadb
+sentence-transformers
+
+# Optional Utilities
+pypdf     # fallback PDF reader
+PyYAML    # optional config support
