@@ -41,7 +41,7 @@ teachmate_ai_agent/
 
 ### 1. Clone and Set Up
 ```bash
-git clone https://github.com/yourname/teachmate_ai_agent.git
+git clone https://github.com/Winston-watt-page/teachmate_ai_agent.git
 cd teachmate_ai_agent
 ```
 
